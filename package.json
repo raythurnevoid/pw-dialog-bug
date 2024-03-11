@@ -1,0 +1,19 @@
+{
+  "name": "pw-dialog-bug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.25",
+    "playwright": "^1.42.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.4"
+  }
+}
